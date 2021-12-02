@@ -5,3 +5,5 @@ Please visit my website: https://thecontoso.com
 My Latest and most evolved PowerShell scripts are in my test folder, feel free to test them and provide feedback.
 
 I feel motivated and energized when I tackle complex script and work through it over hours or even days then have the eureka moment when it finally does exactly how I initially planned.
+
+My newest project is auditing the MSW modules, correcting errors, uploading current photos and making sure the directions are clear.
