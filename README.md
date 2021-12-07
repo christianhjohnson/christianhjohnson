@@ -15,4 +15,4 @@ My other projects:
 My First Deployment ARM : 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FDeploy%2520RG-VNET-NSG-LB-2VMs.json)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/christianhjohnson/The-Contoso/main/ARM%20Templates/testarm.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2Ftestarm.json)
