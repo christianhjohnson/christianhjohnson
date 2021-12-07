@@ -9,6 +9,7 @@ I feel motivated and energized when I tackle complex script and work through it 
 My other projects: 
 * Auditing the MCW modules, correcting errors, uploading current photos and making sure the directions are clear.
 * Creating 1 click deployment resources with ARM templates in Azure - see below
+* Learning more about Linux through my deployment of Pi-Hole on a raspberry pi
 
 My First Deployment ARM : 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FDeploy%2520RG-VNET-NSG-LB-2VMs.json)
