@@ -2,7 +2,7 @@ Christian here, this is my brain on code, specifically PowerShell.  I created th
 
 Please visit my website: https://thecontoso.com
 
-My Latest and most evolved PowerShell scripts are in my test folder, feel free to test them and provide feedback.
+My Latest and most evolved PowerShell scripts are "### The Learning Script ###" in the THECONTOSO repository, feel free to test them and provide feedback.  
 
 I feel motivated and energized when I tackle complex script and work through it over hours or even days then have the eureka moment when it finally does exactly how I initially planned.
 
