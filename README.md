@@ -1,4 +1,4 @@
-Christian here, this is my brain on code, specifically PowerShell.  I created this GitHub site as a learning tool to help me learn PowerShell, ARM templates in the Azure Cloud, and the integration of VS Code with GitHub.
+Christian here, this is my brain on code, specifically PowerShell and JSON.  I created this GitHub site as a learning tool to help me learn PowerShell, ARM templates in the Azure Cloud, and the integration of VS Code with GitHub.
 
 Please visit my website: [THE CONTOSO](https://thecontoso.com)
 
