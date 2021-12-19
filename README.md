@@ -9,7 +9,9 @@ I feel motivated and energized when I tackle complex script and work through it 
 My other projects: 
 * Auditing the MCW modules, correcting errors, uploading current photos and making sure the directions are clear.
 * Creating 1 click deployment resources with ARM templates in Azure - see below
-* Learning more about Linux through my deployment of Pi-Hole on a raspberry pi
+* Learning more about Linux through my deployment of Pi-Hole on a raspberry pi.
+* Creating a crypto token called Anakoin using Solona - after my cat Anakin.
+* Started a training repo to serve as a learning tool by building lessons to help others.
 
 
 My First Deployment ARM : 
