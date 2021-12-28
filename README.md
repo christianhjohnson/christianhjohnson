@@ -17,3 +17,5 @@ My other projects:
 My First Deployment ARM : 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FDeploy%2520RG-VNET-NSG-LB-2VMs.json)
 
+Create Storage Account with Random Name:
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Forgname%2Fprojectname%2F_apis%2Fgit%2Frepositories%2Freponame%2Fitems%3FscopePath%3D%2freponame%2fazuredeploy.json%26api-version%3D6.0)
