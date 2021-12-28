@@ -18,4 +18,4 @@ My First Deployment ARM :
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FDeploy%2520RG-VNET-NSG-LB-2VMs.json)
 
 Create Storage Account with Random Name:
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FGenerate%2520Random%2520name%2520for%2520storage%2520account.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/urihttps%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FGenerate%2520Random%2520name%2520for%2520storage%2520account.json)
