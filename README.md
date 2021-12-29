@@ -19,3 +19,6 @@ My First Deployment ARM :
 
 Create Storage Account with Random Name:
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FGenerate%2520Random%2520name%2520for%2520storage%2520account.json)
+
+Linked Template Deploy NSG:
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchristianhjohnson%2FThe-Contoso%2Fmain%2FARM%2520Templates%2FLinkedTemplate.json)
