@@ -1,7 +1,5 @@
 Christian here, this is my brain on code, specifically PowerShell and JSON.  I created this GitHub site as a learning tool to help me learn PowerShell, ARM templates in the Azure, and the integration of VS Code with GitHub.
 
-Please visit my website: [THE CONTOSO](https://thecontoso.com)
-
 My Latest and most evolved PowerShell script is *[### The Learning Script ###](https://github.com/christianhjohnson/The-Contoso/blob/main/%23%23%23%20The%20Learning%20Script%20Vers%201.4%20%23%23%23.ps1)* series in the THECONTOSO repository, feel free to test them and provide feedback.  
 
 My other projects: 
